@@ -1,0 +1,1 @@
+This repository consits of a directory which contains scripts for various linux executable commands.
