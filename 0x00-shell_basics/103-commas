@@ -1,2 +1,2 @@
 #!/bin/bash
-/usr/bin/ls -xamp
+/usr/bin/ls -xamp\
