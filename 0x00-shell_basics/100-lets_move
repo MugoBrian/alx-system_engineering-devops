@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 /usr/bin/mv [[:upper:]]* /tmp\
+=======
+/usr/bin/mv [[:upper:]]* /tmp/u\
+>>>>>>> 1c9bedd53c066e74abc278ccaafaaab9abe0947b
