@@ -1,0 +1,6 @@
+#!/bin/bash
+tail -n 1 iacta | cat >> iacta
+
+
+
+
